@@ -12,5 +12,11 @@ class Solution(object):
         :type root: TreeNode
         :rtype: List[int]
         """
-
-        return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right) if root else []
+        def traverse(root, answer):
+            if root:
+                traverse(root.left, answer)
+                answer.append(root.val)
+                traverse(root.right, answer)
+        answer = []
+        traverse(root, answer)
+        return answer
