@@ -7,19 +7,10 @@
 
 # Inorder Traversal: left -> root -> right
 class Solution(object):
-    def run(self, root, result):
-        if root:
-            self.run(root.left, result)
-            result.append(root.val)
-            self.run(root.right, result)
-
     def inorderTraversal(self, root):
         """
         :type root: TreeNode
         :rtype: List[int]
         """
 
-        answer = []
-        self.run(root, answer)
-
-        return answer
+        return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right) if root else []
