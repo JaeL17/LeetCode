@@ -1,22 +1,20 @@
-# Definition for a binary tree node.
-# class TreeNode(object):
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
+from collections import deque
+class Solution:
+    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        
+        answer= []
+        stack = deque()
+        stack.append((root, False)) # push (root node, visited) to the stack
+        
+        while stack:
+            curr, visited = stack.pop()
+            if curr:
+                if visited:
+                    answer.append(curr.val)
+                else:
+                    stack.append((curr.right, False)) # push right node to the stack
+                    stack.append((curr, True)) # push current node to the stack
+                    stack.append((curr.left, False)) # push left note to the stack
 
-# Inorder Traversal: left -> root -> right
-class Solution(object):
-    def inorderTraversal(self, root):
-        """
-        :type root: TreeNode
-        :rtype: List[int]
-        """
-        def traverse(root, answer):
-            if root:
-                traverse(root.left, answer)
-                answer.append(root.val)
-                traverse(root.right, answer)
-        answer = []
-        traverse(root, answer)
         return answer
+        
