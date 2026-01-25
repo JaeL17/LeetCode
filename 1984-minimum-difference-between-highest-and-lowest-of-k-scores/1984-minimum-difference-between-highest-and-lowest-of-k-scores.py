@@ -1,5 +1,8 @@
 class Solution:
     def minimumDifference(self, nums: List[int], k: int) -> int:
+        # Overall time complexity: O(nlogn)
+        # Overall space complexity: O(1) for auxiliary space
+
         nums.sort() # python uses Timesort O(nlogn)
         n = len(nums) # length look up so O(1)
         best = float('inf')
