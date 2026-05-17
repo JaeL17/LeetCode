@@ -8,8 +8,10 @@ def calculate_special_bonus(employees: pd.DataFrame) -> pd.DataFrame:
     #     else:
     #         id_and_bonus.append([emp_id, 0])
     employees["bonus"] = 0 
-    employees.loc[(employees["employee_id"] % 2 == 1) & ~employees["name"].str.startswith("M"), ["bonus"]] = employees["salary"]
+    condition = (employees["employee_id"] % 2 == 1) & ~employees["name"].str.startswith("M")
 
-
+    # below works bc pandas frame works by selecting index
+    employees.loc[condition, ["bonus"]] = employees.loc[condition, "salary"]
+    
     # return pd.DataFrame(id_and_bonus, columns = ["employee_id", "bonus"]).sort_values("employee_id")
     return employees[["employee_id", "bonus"]].sort_values("employee_id")
