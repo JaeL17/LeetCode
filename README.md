@@ -23,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/JaeL17/LeetCode/tree/main/0015-3sum/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/JaeL17/LeetCode/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
