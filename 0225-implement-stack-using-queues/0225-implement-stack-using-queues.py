@@ -1,25 +1,32 @@
 class MyStack:
 
     def __init__(self):
-        self.queue = []
+        self.input_queue = []
+        self.output_queue = []
+    # we need two queues because only one queue supports FIFO, but we need LIFO.
 
     def push(self, x: int) -> None:
-        self.queue.append(x)
+        self.input_queue.append(x)
 
     def pop(self) -> int:
-        queue_temp = self.queue[::-1]
-        x = queue_temp.pop(0)
-        self.queue = queue_temp[::-1]
-        return x
+        
+        while len(self.input_queue) > 1:
+            self.output_queue.append(self.input_queue.pop(0))
+        top_element = self.input_queue.pop(0)
+
+        self.input_queue, self.output_queue = self.output_queue, self.input_queue
+        return top_element
 
     def top(self) -> int:
-        return self.queue[-1]
+        top_element = self.pop()
+        self.input_queue.append(top_element)
+
+        return top_element
 
     def empty(self) -> bool:
-        if self.queue:
-            return False
-        else:
-            return True
+        return not self.input_queue and not self.output_queue
+        
+
 
 # Your MyStack object will be instantiated and called as such:
 # obj = MyStack()
