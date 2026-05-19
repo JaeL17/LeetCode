@@ -4,25 +4,16 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import deque
 class Solution:
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        # post oroder traversal: left -> right -> middle
-        answer = []
-        stack = deque()
-        stack.append((root, False)) # push (root node, visited_state) to the stack
-
-        while stack:
-            curr, visited = stack.pop()
-            if curr:
-                if visited:
-                    answer.append(curr.val)
-                else:
-                    stack.append((curr, True))
-                    stack.append((curr.right, False))
-                    stack.append((curr.left, False))
-
-
-        return answer
-
+        result= []
+        
+        def dfs(node):
+            if node is None:
+                return
+            dfs(node.left) # go as left as possible
+            dfs(node.right) # go as right as possible
+            result.append(node.val) # root
+        dfs(root)
+        return result
         
