@@ -1,58 +1,61 @@
 class Node:
-    def __init__(self, val = 0):
+    def __init__(self, val=0):
         self.val = val
         self.next = None
 
 class MyLinkedList:
 
     def __init__(self):
-        self.head = Node() # dummy head
-        self.size = 0 # number of nodes
-        
+        self.head = Node() # dummy head node with value of 0
+        self.size = 0 # size of the linked list
+
     def get(self, index: int) -> int:
         if index < 0 or index >= self.size:
             return -1
-        curr = self.head.next
+
+        curr_node = self.head.next
+
         for _ in range(index):
-            curr = curr.next
-        return curr.val
+            curr_node = curr_node.next
+        return curr_node.val
 
     def addAtHead(self, val: int) -> None:
         self.addAtIndex(0, val)
-
 
     def addAtTail(self, val: int) -> None:
         self.addAtIndex(self.size, val)
 
     def addAtIndex(self, index: int, val: int) -> None:
         if index > self.size:
-            return
-
+            return None
         if index < 0:
             index = 0
 
-        prev = self.head
-        
-        # move prev to the index to insert.
+        prev_node = self.head
+
+        # move prev to the node before index
         for _ in range(index):
-            prev = prev.next
-        
-        # create new node
+            prev_node = prev_node.next
+
         new_node = Node(val)
-        new_node.next = prev.next
-        prev.next = new_node
+        new_node.next = prev_node.next
+        prev_node.next = new_node
 
         self.size += 1
 
     def deleteAtIndex(self, index: int) -> None:
         if index < 0 or index >= self.size:
             return
+
+        prev_node = self.head
         
-        prev = self.head
         for _ in range(index):
-            prev = prev.next
-        prev.next = prev.next.next
-        self.size -= 1
+            prev_node = prev_node.next
+        
+        prev_node.next = prev_node.next.next
+        self.size -=1
+
+  
 
 # Your MyLinkedList object will be instantiated and called as such:
 # obj = MyLinkedList()
