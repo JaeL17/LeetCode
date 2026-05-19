@@ -31,16 +31,16 @@ class MyLinkedList:
         if index < 0:
             index = 0
 
-        curr = self.head
+        prev = self.head
         
-        # move curr to the index to insert.
+        # move prev to the index to insert.
         for _ in range(index):
-            curr = curr.next
+            prev = prev.next
         
         # create new node
         new_node = Node(val)
-        new_node.next = curr.next
-        curr.next = new_node
+        new_node.next = prev.next
+        prev.next = new_node
 
         self.size += 1
 
