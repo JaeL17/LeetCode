@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JaeL17/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/JaeL17/LeetCode/tree/main/0015-3sum/) | Medium |
 ## Two Pointers
 |  |
@@ -92,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/JaeL17/LeetCode/tree/master/0100-same-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/JaeL17/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
