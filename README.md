@@ -4,28 +4,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0788-rotated-digits](https://github.com/JaeL17/LeetCode/tree/master/0788-rotated-digits) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0788-rotated-digits](https://github.com/JaeL17/LeetCode/tree/master/0788-rotated-digits) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/JaeL17/LeetCode/tree/main/0015-3sum/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/JaeL17/LeetCode/tree/main/0015-3sum/) | Medium |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/JaeL17/LeetCode/tree/main/0015-3sum/) | Medium |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0176-second-highest-salary](https://github.com/JaeL17/LeetCode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/JaeL17/LeetCode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/JaeL17/LeetCode/tree/main/0178-rank-scores/) | Medium |
@@ -42,18 +42,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1873-calculate-special-bonus](https://github.com/JaeL17/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1907-count-salary-categories](https://github.com/JaeL17/LeetCode/tree/main/1907-count-salary-categories/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/JaeL17/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/JaeL17/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/JaeL17/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/JaeL17/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0707-design-linked-list](https://github.com/JaeL17/LeetCode/tree/master/0707-design-linked-list) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0225-implement-stack-using-queues](https://github.com/JaeL17/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/JaeL17/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/JaeL17/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
