@@ -18,6 +18,15 @@ class Solution:
                         if grid[new_r][new_c] =="1" and not visited[new_r][new_c]:
                             visited[new_r][new_c] = True
                             queue.append((new_r, new_c))
+        
+        def dfs(pos: Tuple[int, int]):
+      
+            for move in moves:
+                new_r, new_c = pos[0] + move[0], pos[1] + move[1]
+                if 0<= new_r < rows and 0 <= new_c < cols:
+                    if grid[new_r][new_c] =="1" and not visited[new_r][new_c]:
+                        visited[new_r][new_c] = True
+                        dfs((new_r, new_c))
 
 
         for row in range(rows):
@@ -25,8 +34,8 @@ class Solution:
                 if grid[row][col] == "1" and not visited[row][col]:
                     count +=1
                     visited[row][col] =True
-                    bfs((row, col))
-                    # dfs((row, col))
+                    # bfs((row, col))
+                    dfs((row, col))
 
 
 
