@@ -4,9 +4,11 @@ class Solution:
         left = 0
         curr_sum =0
         count = {}
+
+        # time complexity O(n), space complexity O(k)
         for right in range(len(nums)):
 
-            # update curr_sum 
+            # update curr_sum
             curr_sum += nums[right]
             
             # update counter
