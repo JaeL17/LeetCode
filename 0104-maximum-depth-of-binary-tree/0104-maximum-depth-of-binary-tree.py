@@ -14,4 +14,4 @@ class Solution:
 
 
         # depth = dfs(root, 1)
-        return dfs(root) if root else 0
+        return dfs(root)
