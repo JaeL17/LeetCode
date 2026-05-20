@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/JaeL17/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/JaeL17/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/JaeL17/LeetCode/tree/master/0053-maximum-subarray) |
+| [0560-subarray-sum-equals-k](https://github.com/JaeL17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JaeL17/LeetCode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/JaeL17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -120,4 +122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JaeL17/LeetCode/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/JaeL17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
