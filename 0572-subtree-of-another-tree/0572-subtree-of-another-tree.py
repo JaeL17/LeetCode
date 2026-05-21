@@ -19,7 +19,6 @@ class Solution:
             
             return is_same_tree(tree1.left, tree2.left) and is_same_tree(tree1.right, tree2.right)
 
-        target_val = subRoot.val
         def dfs(node):
             if node is None:
                 return False
