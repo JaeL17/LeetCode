@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/JaeL17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JaeL17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JaeL17/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/JaeL17/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/JaeL17/LeetCode/tree/master/0687-longest-univalue-path) |
 ## Depth-First Search
 |  |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/JaeL17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JaeL17/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/JaeL17/LeetCode/tree/master/0200-number-of-islands) |
+| [0572-subtree-of-another-tree](https://github.com/JaeL17/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/JaeL17/LeetCode/tree/master/0687-longest-univalue-path) |
 | [0733-flood-fill](https://github.com/JaeL17/LeetCode/tree/master/0733-flood-fill) |
 ## Binary Tree
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/JaeL17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JaeL17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JaeL17/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/JaeL17/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/JaeL17/LeetCode/tree/master/0687-longest-univalue-path) |
 ## Breadth-First Search
 |  |
@@ -198,4 +201,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/JaeL17/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/JaeL17/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/JaeL17/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
