@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/JaeL17/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0788-rotated-digits](https://github.com/JaeL17/LeetCode/tree/master/0788-rotated-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JaeL17/LeetCode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/JaeL17/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0131-palindrome-partitioning](https://github.com/JaeL17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0788-rotated-digits](https://github.com/JaeL17/LeetCode/tree/master/0788-rotated-digits) |
 ## Array
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JaeL17/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/JaeL17/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/JaeL17/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JaeL17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JaeL17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JaeL17/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/JaeL17/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/JaeL17/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JaeL17/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JaeL17/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -190,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JaeL17/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/JaeL17/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
