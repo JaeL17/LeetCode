@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/JaeL17/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/JaeL17/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JaeL17/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/JaeL17/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JaeL17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JaeL17/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/JaeL17/LeetCode/tree/master/0200-number-of-islands) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/JaeL17/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/JaeL17/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JaeL17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JaeL17/LeetCode/tree/master/0242-valid-anagram) |
 ## Database
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JaeL17/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/JaeL17/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/JaeL17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JaeL17/LeetCode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/JaeL17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -126,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/JaeL17/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/JaeL17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/JaeL17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/JaeL17/LeetCode/tree/master/0242-valid-anagram) |
