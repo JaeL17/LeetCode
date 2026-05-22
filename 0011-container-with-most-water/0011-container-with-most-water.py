@@ -6,6 +6,8 @@ class Solution:
 
         left = 0
         right = n - 1
+
+        # Time complexity: O(n)
         while left < right:
             max_water = max_water = max((right - left) * min(height[right], height[left]), max_water) 
 
