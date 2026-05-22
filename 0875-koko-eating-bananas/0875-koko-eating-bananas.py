@@ -15,6 +15,8 @@ class Solution:
 
         answer = right
         # Time complexity: O(n log m)
+        # n = number of piles
+        # m = max(piles)
         while left <= right:
             mid = (left + right) // 2
 
