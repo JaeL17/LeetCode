@@ -3,22 +3,24 @@ class Solution:
         rows = len(matrix)
         cols = len(matrix[0])
 
-        flat_matrix = []
-        for row in matrix:
-            flat_matrix.extend(row)
-        
         left = 0
         right = rows * cols - 1
 
         while left <= right:
             mid = (left + right) // 2
-            if flat_matrix[mid] == target:
+            
+            # get coordinate of row, col
+            row = mid // cols
+            col = mid % cols
+
+            if matrix[row][col] == target:
                 return True
-            if flat_matrix[mid] < target:
-                left = mid +1
+            elif matrix[row][col] < target:
+                left = mid + 1
             else:
                 right = mid - 1
 
+        return False
 
         return False
 
