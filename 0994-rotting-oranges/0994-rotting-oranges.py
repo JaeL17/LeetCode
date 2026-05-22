@@ -1,32 +1,24 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
 
-        # spot orange with 2 -> do bfs to find orange that is farthest
-        # check position of fresh orange in hash map, keep track of min minute for each oragne to become rotten, then take maximum out of this min minutes 
-
         rows, cols = len(grid), len(grid[0])
         fresh_oranges: dict[str, List[int]] = dict()
         moves = [(-1, 0), (1, 0), (0, -1), (0, 1)] # up, down, left, right
 
         def bfs(pos_min: Tuple[int, int, int]) -> None:
-
             visited = [[False for _ in range(cols)] for _ in range(rows)]
             queue : List[Tuple[int, int, int]] = [pos_min]
-
             visited[pos_min[0]][pos_min[1]] = True
 
             while queue:
                 curr_r, curr_c, curr_t = queue.pop(0)   
-        
                 for move in moves:
                     new_r, new_c = curr_r + move[0], curr_c + move[1]
                     if 0 <= new_r < rows and 0 <= new_c < cols:
                         if grid[new_r][new_c] == 1 and not visited[new_r][new_c]: # check for fresh orange
-                            
                             fresh_oranges[f"{new_r}_{new_c}"].append(curr_t)
                             queue.append((new_r, new_c, curr_t + 1))
                             visited[new_r][new_c] = True
-
 
         for row in range(rows):
             for col in range(cols):
