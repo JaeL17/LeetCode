@@ -27,6 +27,7 @@ class Solution:
         else:
 
             # 1,234,567,891 -> one billion two hundred thirty four million five hundred sisty seven thousand eight hundred ninty one 
+            
             return ((self.numberToWords(num // 1_000_000_000 ) + " " + after_hundred[3] + " " + (self.numberToWords(num % 1_000_000_000) if num % 1_000_000_000 else ""))).strip()
 
         
