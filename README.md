@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JaeL17/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/JaeL17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0788-rotated-digits](https://github.com/JaeL17/LeetCode/tree/master/0788-rotated-digits) |
+| [1340-jump-game-v](https://github.com/JaeL17/LeetCode/tree/master/1340-jump-game-v) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/JaeL17/LeetCode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/JaeL17/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/JaeL17/LeetCode/tree/master/0994-rotting-oranges) |
+| [1340-jump-game-v](https://github.com/JaeL17/LeetCode/tree/master/1340-jump-game-v) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/JaeL17/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/JaeL17/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/JaeL17/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1340-jump-game-v](https://github.com/JaeL17/LeetCode/tree/master/1340-jump-game-v) |
 ## Database
 |  |
 | ------- |
