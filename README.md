@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/JaeL17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0788-rotated-digits](https://github.com/JaeL17/LeetCode/tree/master/0788-rotated-digits) |
 | [1340-jump-game-v](https://github.com/JaeL17/LeetCode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/JaeL17/LeetCode/tree/master/1871-jump-game-vii) |
 ## Array
 |  |
 | ------- |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/JaeL17/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/JaeL17/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/JaeL17/LeetCode/tree/master/0273-integer-to-english-words) |
+| [1871-jump-game-vii](https://github.com/JaeL17/LeetCode/tree/master/1871-jump-game-vii) |
 ## Backtracking
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/JaeL17/LeetCode/tree/master/1871-jump-game-vii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -192,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/JaeL17/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/JaeL17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1871-jump-game-vii](https://github.com/JaeL17/LeetCode/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
