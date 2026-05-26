@@ -6,7 +6,7 @@ class Solution:
         mod:int = 10**9 + 7
         powers:List[int] = [2**i for i in range(22)]
         count = defaultdict(int)
-
+        # time complexity is o(n), space complexity is o(n)
         for food in deliciousness:
             for power in powers:
                 target = power - food
