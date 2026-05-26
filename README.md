@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/JaeL17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/JaeL17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/JaeL17/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/JaeL17/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/JaeL17/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1871-jump-game-vii](https://github.com/JaeL17/LeetCode/tree/master/1871-jump-game-vii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/JaeL17/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
 | ------- |
