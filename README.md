@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/JaeL17/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/JaeL17/LeetCode/tree/master/0994-rotting-oranges) |
 | [1340-jump-game-v](https://github.com/JaeL17/LeetCode/tree/master/1340-jump-game-v) |
+| [1711-count-good-meals](https://github.com/JaeL17/LeetCode/tree/master/1711-count-good-meals) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/JaeL17/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/JaeL17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/JaeL17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1711-count-good-meals](https://github.com/JaeL17/LeetCode/tree/master/1711-count-good-meals) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JaeL17/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
