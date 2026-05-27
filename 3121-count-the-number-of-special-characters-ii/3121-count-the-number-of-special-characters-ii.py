@@ -2,7 +2,8 @@ class Solution:
     def numberOfSpecialChars(self, word: str) -> int:
         last_lower = {}
         first_upper = {}
-
+        
+        # time complexity : O(n)
         for i, char in enumerate(word):
             c = char.lower()
 
