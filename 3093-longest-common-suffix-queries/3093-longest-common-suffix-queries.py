@@ -2,23 +2,14 @@ from typing import List
 
 class TrieNode:
     def __init__(self):
-        self.children = {}
-        self.best_idx = -1
+        self.children: dict[str, "TrieNode"] = {}
+        self.best_idx: int = -1
 
 
 class Solution:
     def stringIndices(self, wordsContainer: List[str], wordsQuery: List[str]) -> List[int]:
 
-        root = TrieNode()
-
         def is_better(new_idx: int, old_idx: int) -> bool:
-            """
-            Better means:
-            1. shorter word length
-            2. if same length, earlier index
-            """
-            old_idx = root.best_idx if old_idx == -1 else old_idx
-
             if old_idx == -1:
                 return True
 
@@ -30,14 +21,15 @@ class Solution:
 
             return False
 
-        # Build reversed Trie
+        root = TrieNode()
+
+        # build reversed trie
         for i, word in enumerate(wordsContainer):
-
-            # root represents empty suffix ""
-            if root.best_idx == -1 or is_better(i, root.best_idx):
-                root.best_idx = i
-
             node = root
+
+            # root = best answer for empty suffix
+            if is_better(i, node.best_idx):
+                node.best_idx = i
 
             for ch in reversed(word):
                 if ch not in node.children:
@@ -45,13 +37,14 @@ class Solution:
 
                 node = node.children[ch]
 
-                # this node represents a suffix
-                if node.best_idx == -1 or is_better(i, node.best_idx):
+                if is_better(i, node.best_idx):
                     node.best_idx = i
 
         answer = []
-
-        # Query
+        # Time:  O(C + Q)
+        # Space: O(C)
+        # C = total number of characters in wordsContainer
+        # Q = total number of characters in wordsQuery
         for query in wordsQuery:
             node = root
             answer_idx = root.best_idx
