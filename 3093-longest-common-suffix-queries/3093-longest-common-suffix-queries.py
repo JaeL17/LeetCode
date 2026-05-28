@@ -3,7 +3,7 @@ from typing import List
 class TrieNode:
     def __init__(self):
         self.children: dict[str, "TrieNode"] = {}
-        self.best_idx: int = -1
+        self.best_idx: int = -1 # not defined yet
 
 
 class Solution:
