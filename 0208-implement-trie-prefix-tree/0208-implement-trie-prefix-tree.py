@@ -21,7 +21,6 @@ class Trie:
 
         return node.is_end
         
-
     def startsWith(self, prefix: str) -> bool:
         node = self
         for char in prefix:
