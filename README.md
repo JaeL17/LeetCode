@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/JaeL17/LeetCode/tree/master/1340-jump-game-v) |
 | [1711-count-good-meals](https://github.com/JaeL17/LeetCode/tree/master/1711-count-good-meals) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3093-longest-common-suffix-queries](https://github.com/JaeL17/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/JaeL17/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/JaeL17/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1871-jump-game-vii](https://github.com/JaeL17/LeetCode/tree/master/1871-jump-game-vii) |
+| [3093-longest-common-suffix-queries](https://github.com/JaeL17/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JaeL17/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JaeL17/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Backtracking
@@ -265,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/JaeL17/LeetCode/tree/master/0273-integer-to-english-words) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/JaeL17/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
