@@ -9,6 +9,7 @@ class Solution:
             #     num_int = int(num_char)
             #     digit_sum += num_int % 10
 
+            # at most 5 because 1 <= nums[i] <= 104
             total = 0
             while num > 0:
                 total += num % 10
