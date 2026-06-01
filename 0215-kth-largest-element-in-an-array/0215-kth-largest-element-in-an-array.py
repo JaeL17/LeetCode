@@ -11,4 +11,4 @@ class Solution:
             if len(min_heap) > k:
                 heapq.heappop(min_heap)
 
-        return heapq.heappop(min_heap) #min_heap[0]
+        return min_heap[0]
