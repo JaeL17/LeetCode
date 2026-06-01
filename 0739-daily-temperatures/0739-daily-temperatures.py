@@ -5,10 +5,12 @@ class Solution:
         answer: List[int] = [0] * len(temperatures)
         stack: List[int] = []
 
-        for i, temperature in enumerate(temperatures):
-            while stack and temperature > temperatures[stack[-1]]:
-                previous_day = stack.pop()
-                answer[previous_day] = i - previous_day
+
+        # O(n) time and space complexity
+        for i, temp in enumerate(temperatures):
+            while stack and temp > temperatures[stack[-1]]:
+                prev_day = stack.pop()
+                answer[prev_day] = i - prev_day
 
             stack.append(i)
 
