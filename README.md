@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/JaeL17/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JaeL17/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JaeL17/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/JaeL17/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JaeL17/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JaeL17/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/JaeL17/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JaeL17/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/JaeL17/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/JaeL17/LeetCode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/JaeL17/LeetCode/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/JaeL17/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/JaeL17/LeetCode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/JaeL17/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/JaeL17/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/JaeL17/LeetCode/tree/master/0733-flood-fill) |
