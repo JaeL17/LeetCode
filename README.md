@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/JaeL17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/JaeL17/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/JaeL17/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/JaeL17/LeetCode/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/JaeL17/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/JaeL17/LeetCode/tree/master/0994-rotting-oranges) |
 | [1340-jump-game-v](https://github.com/JaeL17/LeetCode/tree/master/1340-jump-game-v) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/JaeL17/LeetCode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/JaeL17/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/JaeL17/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0739-daily-temperatures](https://github.com/JaeL17/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -325,4 +327,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/JaeL17/LeetCode/tree/master/1603-design-parking-system) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/JaeL17/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
