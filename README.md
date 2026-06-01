@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/JaeL17/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/JaeL17/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0707-design-linked-list](https://github.com/JaeL17/LeetCode/tree/master/0707-design-linked-list) |
+| [0981-time-based-key-value-store](https://github.com/JaeL17/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/JaeL17/LeetCode/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/JaeL17/LeetCode/tree/master/1603-design-parking-system) |
 ## Queue
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/JaeL17/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/JaeL17/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/JaeL17/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0981-time-based-key-value-store](https://github.com/JaeL17/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/JaeL17/LeetCode/tree/master/1396-design-underground-system) |
 | [1711-count-good-meals](https://github.com/JaeL17/LeetCode/tree/master/1711-count-good-meals) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/JaeL17/LeetCode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/JaeL17/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/JaeL17/LeetCode/tree/master/0344-reverse-string) |
+| [0981-time-based-key-value-store](https://github.com/JaeL17/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/JaeL17/LeetCode/tree/master/1396-design-underground-system) |
 | [1871-jump-game-vii](https://github.com/JaeL17/LeetCode/tree/master/1871-jump-game-vii) |
 | [3093-longest-common-suffix-queries](https://github.com/JaeL17/LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0278-first-bad-version](https://github.com/JaeL17/LeetCode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/JaeL17/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/JaeL17/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/JaeL17/LeetCode/tree/master/0981-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
