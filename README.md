@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/JaeL17/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0707-design-linked-list](https://github.com/JaeL17/LeetCode/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/JaeL17/LeetCode/tree/master/1396-design-underground-system) |
+| [1603-design-parking-system](https://github.com/JaeL17/LeetCode/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/JaeL17/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1603-design-parking-system](https://github.com/JaeL17/LeetCode/tree/master/1603-design-parking-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -310,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/JaeL17/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/JaeL17/LeetCode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
