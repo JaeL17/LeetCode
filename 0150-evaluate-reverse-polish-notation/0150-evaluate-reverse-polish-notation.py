@@ -1,23 +1,21 @@
-import operator
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
-        stack = []
-        operators = {"+": operator.add,
-                     "-": operator.sub,
-                     "*": operator.mul,
-                     "/": operator.truediv}
-        for char in tokens:
-            if char in operators.keys():
-                num1 = stack.pop()
-                num2 = stack.pop()
-                operation_result = operators[char](num2, num1)
-                # print(num1, num2, char, int(operation_result))
-                stack.append(int(operation_result))
+        stack: List[int] = []
+
+        for token in tokens:
+            if token not in {"+", "-", "*", "/"}:
+                stack.append(int(token))
             else:
-                stack.append(int(char))
-
+                second = stack.pop()
+                first = stack.pop()
+                if token == "+":
+                    stack.append(first + second)
+                elif token == "-":
+                    stack.append(first - second)
+                elif token == "*":
+                    stack.append(first * second)
+                else:
+                    stack.append(int(first / second))
         return stack[0]
-                     
 
-        
         
