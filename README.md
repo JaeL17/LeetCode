@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3093-longest-common-suffix-queries](https://github.com/JaeL17/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JaeL17/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JaeL17/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/JaeL17/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/JaeL17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/JaeL17/LeetCode/tree/master/0344-reverse-string) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JaeL17/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/JaeL17/LeetCode/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/JaeL17/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JaeL17/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JaeL17/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Database
 |  |
 | ------- |
@@ -254,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/JaeL17/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/JaeL17/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/JaeL17/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JaeL17/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -309,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JaeL17/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2126-destroying-asteroids](https://github.com/JaeL17/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JaeL17/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JaeL17/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Recursion
 |  |
 | ------- |
