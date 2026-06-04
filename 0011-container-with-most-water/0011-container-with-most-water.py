@@ -9,7 +9,7 @@ class Solution:
 
         # Time complexity: O(n)
         while left < right:
-            max_water = max_water = max((right - left) * min(height[right], height[left]), max_water) 
+            max_water = max((right - left) * min(height[right], height[left]), max_water) 
 
             if height[left] < height[right]:
                 left +=1
