@@ -41,7 +41,7 @@ class Solution:
             else:
                 answer.append(min(val))
             
-        return max(answer) if answer else -1
+        return max(answer) #if answer else -1
 
 
         
