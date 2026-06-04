@@ -1,20 +1,19 @@
-from collections import deque
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        
-        answer= []
-        stack = deque()
-        stack.append((root, False)) # push (root node, visited) to the stack
-        
-        while stack:
-            curr, visited = stack.pop()
-            if curr:
-                if visited:
-                    answer.append(curr.val)
-                else:
-                    stack.append((curr.right, False)) # push right node to the stack
-                    stack.append((curr, True)) # push current node to the stack
-                    stack.append((curr.left, False)) # push left note to the stack
 
-        return answer
-        
+        result = []
+        def dfs(node: Optional[TreeNode]):
+            if node is None:
+                return
+            dfs(node.left) # left 
+            result.append(node.val) # root
+            dfs(node.right) # right
+            
+        dfs(root)
+        return result
