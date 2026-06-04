@@ -9,8 +9,7 @@ class MyQueue:
         
     def pop(self) -> int:
         while len(self.s1) > 1:
-            item = self.s1.pop()
-            self.s2.append(item)
+            self.s2.append(self.s1.pop())
         item = self.s1.pop()
 
         while self.s2:
