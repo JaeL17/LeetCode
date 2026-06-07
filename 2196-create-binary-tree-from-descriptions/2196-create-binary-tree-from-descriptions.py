@@ -7,7 +7,7 @@
 class Solution:
     def createBinaryTree(self, descriptions: List[List[int]]) -> Optional[TreeNode]:
         node_track: dict[int, Optional[TreeNode]] = {}
-        root_node: Optional[TreeNode] =None
+        child_nodes: set[int] = set()
 
         for des in descriptions:
             
@@ -30,17 +30,17 @@ class Solution:
                 parent_node.right = child_node
 
             node_track[des[0]] = parent_node
-
+            child_nodes.add(des[1])
+            
             # if not root_node or (root_node.val == child_node.val):
             #     root_node = parent_node
-        key_list = list(node_track.keys())
-        for key, item in node_track.items():
-            if item.left:
-                key_list.remove(item.left.val)
-            if item.right:
-                key_list.remove(item.right.val)
 
-        return node_track[key_list[0]]
+
+        for key in node_track.keys():
+            if key not in child_nodes:
+                return node_track[key]
+
+        return None
 
 
         
