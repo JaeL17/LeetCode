@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-count-good-meals](https://github.com/JaeL17/LeetCode/tree/master/1711-count-good-meals) |
 | [2126-destroying-asteroids](https://github.com/JaeL17/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JaeL17/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/JaeL17/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/JaeL17/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/JaeL17/LeetCode/tree/master/3093-longest-common-suffix-queries) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/JaeL17/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaeL17/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/JaeL17/LeetCode/tree/master/0687-longest-univalue-path) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/JaeL17/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/JaeL17/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/JaeL17/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0687-longest-univalue-path](https://github.com/JaeL17/LeetCode/tree/master/0687-longest-univalue-path) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/JaeL17/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0981-time-based-key-value-store](https://github.com/JaeL17/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/JaeL17/LeetCode/tree/master/1396-design-underground-system) |
 | [1711-count-good-meals](https://github.com/JaeL17/LeetCode/tree/master/1711-count-good-meals) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/JaeL17/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/JaeL17/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/JaeL17/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
