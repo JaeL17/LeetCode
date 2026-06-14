@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/JaeL17/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/JaeL17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/JaeL17/LeetCode/tree/master/0344-reverse-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JaeL17/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/JaeL17/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JaeL17/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/JaeL17/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/JaeL17/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/JaeL17/LeetCode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0739-daily-temperatures](https://github.com/JaeL17/LeetCode/tree/master/0739-daily-temperatures) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JaeL17/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/JaeL17/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/JaeL17/LeetCode/tree/master/0146-lru-cache) |
 | [0707-design-linked-list](https://github.com/JaeL17/LeetCode/tree/master/0707-design-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/JaeL17/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
