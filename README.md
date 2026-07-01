@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/JaeL17/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JaeL17/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/JaeL17/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JaeL17/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/JaeL17/LeetCode/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JaeL17/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JaeL17/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/JaeL17/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/JaeL17/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/JaeL17/LeetCode/tree/master/0994-rotting-oranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JaeL17/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/JaeL17/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/JaeL17/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/JaeL17/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JaeL17/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/JaeL17/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/JaeL17/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
@@ -301,15 +304,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/JaeL17/LeetCode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/JaeL17/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/JaeL17/LeetCode/tree/master/0994-rotting-oranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JaeL17/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/JaeL17/LeetCode/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JaeL17/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JaeL17/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/JaeL17/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JaeL17/LeetCode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
